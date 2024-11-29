@@ -2,4 +2,4 @@ download crime dataset and import it directly to this folder. The file is too la
 https://www.kaggle.com/datasets/START-UMD/gtd/data
 
 File structure:
-"./dataet/globalterrorismdb_0718dist.csv"
+"./dataset/globalterrorismdb_0718dist.csv"
